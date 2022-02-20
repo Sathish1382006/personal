@@ -1,0 +1,14 @@
+
+
+
+    python faitagram -s facebook -u sathish1382006@gmail.com-w/root/passed.t
+
+    -s, -u, -w parameters are musts, and -d is optional.
+
+    -d in default is 1 sec.
+
+    In facebook, you would have to type the email in the -u sathish1382006@gmail.com.
+
+    In facebook, the script will ask you the Name of the Praveen praveen
+
+ 
